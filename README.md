@@ -6,7 +6,7 @@ Genomics resources for Colias crocea (Pieridae; Lepidoptera) from Woronik et al.
 
 Woronik, A., Tunström, K., Perry, M.W., Neethiraj, R., Stefanescu, C., Celorio-Mancera, M. de la P., Brattström, O., Hill, J., Lehmann, P., Käkelä, R., et al. (2019). A transposable element insertion is associated with an alternative life history strategy. Nature Communications 10, 1–11.
 
-[![link to article](https://www.nature.com/articles/s41467-019-13596-2)
+- [link to article](https://www.nature.com/articles/s41467-019-13596-2)
 
 ***************************************
 
