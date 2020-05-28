@@ -1,2 +1,7 @@
 # Colias_crocea
-Genomics resources for Colias crocea (Pieridae; Lepidoptera)
+Genomics resources for Colias crocea (Pieridae; Lepidoptera) from Woronik et al. 2019
+
+Woronik, A., Tunström, K., Perry, M.W., Neethiraj, R., Stefanescu, C., Celorio-Mancera, M. de la P., Brattström, O., Hill, J., Lehmann, P., Käkelä, R., et al. (2019). A transposable element insertion is associated with an alternative life history strategy. Nature Communications 10, 1–11.
+
+## Abstract
+Tradeoffs affect resource allocation during development and result in fitness consequences that drive the evolution of life history strategies. Yet despite their importance, we know little about the mechanisms underlying life history tradeoffs. Many species of Colias butterflies exhibit an alternative life history strategy (ALHS) where females divert resources from wing pigment synthesis to reproductive and somatic development. Due to this reallocation, a wing color polymorphism is associated with the ALHS: either yellow/orange or white. Here we map the locus associated with this ALHS in Colias crocea to a transposable element insertion located downstream of the Colias homolog of BarH-1, a homeobox transcription factor. Using CRISPR/Cas9 gene editing, antibody staining, and electron microscopy we find white-specific expression of BarH-1 suppresses the formation of pigment granules in wing scales and gives rise to white wing color. Lipid and transcriptome analyses reveal physiological differences associated with the ALHS. Together, these findings characterize a mechanism for a female- limited ALHS.
