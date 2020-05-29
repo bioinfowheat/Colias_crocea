@@ -25,6 +25,12 @@ Neethiraj, R., Hornett, E.A., Hill, J.A., and Wheat, C.W. (2017). Investigating 
 
 - [link to article](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14205)
 
+We are using the proteins identified in our transcriptome assembly (Trinity), after collapsing the assembly using the tool Evigene. The raw RNAseq reads for the transcriptome assembly are on NCBI, here:
+
+- [link to RNAseq dataset](https://www.ncbi.nlm.nih.gov/nuccore/GIBK00000000#feature_GIBK00000000.1)
+
+and the identified proteins are listed below.
+
 ***************************************
 
 ### Assessments ###
